@@ -2,10 +2,8 @@
 
 <p align="center">
 
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Console.log(%22Hola%2C+soy+francisco!%22)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Console.log(%22Hola%2C+soy+francisco!%22)" alt="Typing SVG" /></a>
   
-  </a>
-
 </p>
 
 <br>
