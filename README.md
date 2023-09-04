@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hola, soy francisco! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
 
 <p align="center">
-  <a href="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Console.log(%22Hola%2C+soy+francisco!%22))](https://git.io/typing-svg)</a>
+
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Console.log(%22Hola%2C+soy+francisco!%22)</a>
+
 </p>
 
 <br>
@@ -26,7 +27,6 @@
 
 <p align="center">
 
-**Lenguajes**
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
