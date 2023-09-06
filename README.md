@@ -48,7 +48,7 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contactame!
 
 <p align="center">
-  <a href="rarugfrancisco@gmail.com" >
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKBzzrRrLGGWNLqGfMzrSNrjJQxrpLKghJvSQxDqSkpVkJSMhHnBZqTcRbVFwhwZWVfHKtL" >
     <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
@@ -64,5 +64,5 @@
 
 <div align="center">
   😍 Gracias por visitar mi perfil! Que tengas un buen dia! 😉 <br/>
-  &copy; 2023 Shourya Sharma
+  &copy; 2023 Rarug Francisco
 </div>
