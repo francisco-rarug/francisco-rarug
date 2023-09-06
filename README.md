@@ -45,3 +45,19 @@
 
 <br><br>
 -----
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contactame!
+
+<p align="center">
+  <a href="rarugfrancisco@gmail.com" >
+    <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/francisco-rarug-386942268/" target="_blank">
+    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/francisco-rarug?tab=repositories" target="_blank">
+    <img align="center" alt="Shourya742 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+<p>
