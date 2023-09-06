@@ -8,6 +8,7 @@
 
 <br>
 
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <br>
@@ -17,6 +18,8 @@
 - Soy de nacionalidad Argentina
 - Portafolio personal [link](https://francisco-rarug.github.io/Portafolio_web/)
 - Actualmente estoy trabajando como pasante en la ART del banco provincia.
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <br><br>
 
