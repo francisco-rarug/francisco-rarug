@@ -44,8 +44,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
------
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contactame!
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contactame!
 
 <p align="center">
   <a href="rarugfrancisco@gmail.com" >
@@ -61,3 +61,8 @@
   </a> &nbsp;&nbsp;
   
 <p>
+
+<div align="center">
+  😍 Gracias por visitar mi perfil! Que tengas un buen dia! 😉 <br/>
+  &copy; 2023 Shourya Sharma
+</div>
