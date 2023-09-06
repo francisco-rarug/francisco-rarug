@@ -13,11 +13,13 @@
 
 <br>
 
-- Estudio actualmente en la utn (Universidad Tecnologica Nacional)
-- Actualmente aprendiendo c#
+- Estudio actualmente en la UTN (Universidad Tecnologica Nacional)
+- Actualmente estoy aprendiendo C#
 - Soy de nacionalidad Argentina
 - Portafolio personal [link](https://francisco-rarug.github.io/Portafolio_web/)
 - Actualmente estoy trabajando como pasante en la ART del banco provincia.
+- Tengo 19 años
+- Me apasiona estar siempre actualizado a las nuevas tecnologias
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
