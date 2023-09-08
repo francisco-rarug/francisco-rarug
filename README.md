@@ -1,25 +1,26 @@
-<h1 align="center"><b>Hola, soy francisco! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi!, my name is Francisco! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
 
-  <a href="https://github.com/francisco-rarug"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1500&width=474&lines=Console.log(%22Hola%2C+conoce+mi+perfil!%22)" alt="Typing SVG" /></a>
+ <a href="https://github.com/francisco-rarug"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2000&pause=1000&color=3E6AF7&center=true&vCenter=true&width=530&separator=%3C&lines=console.log(%22Hello%2C+check+out+my+profile%22);" alt="Typing SVG" /></a>
   
 </p>
 
 <br>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
-- Estudio actualmente en la UTN (Universidad Tecnologica Nacional)
-- Actualmente estoy aprendiendo C#
-- Soy de nacionalidad Argentina
-- Portafolio personal [link](https://francisco-rarug.github.io/Portafolio_web/)
-- Actualmente estoy trabajando como pasante en la ART del banco provincia.
-- Tengo 19 años
-- Me apasiona estar siempre actualizado a las nuevas tecnologias
+- I am currently studying at UTN (National Technological University).
+- I am currently learning C#.
+- I am of Argentine nationality.
+- Personal portfolio [link](https://francisco-rarug.github.io/Portafolio_web/)
+- I am currently working as an intern at the ART of the Provincia Group.
+- I am 19 years old.
+-I am passionate about keeping up with new technologies.
+
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
@@ -47,7 +48,7 @@
 
 <br><br>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contactame!
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contact me!
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKBzzrRrLGGWNLqGfMzrSNrjJQxrpLKghJvSQxDqSkpVkJSMhHnBZqTcRbVFwhwZWVfHKtL" >
@@ -65,6 +66,6 @@
 <p>
 
 <div align="center">
-  😍 Gracias por visitar mi perfil! Que tengas un buen dia! 😉 <br/>
+  😍 Thank you for visiting my profile! Have a great day! 😉 <br/>
   &copy; 2023 Rarug Francisco
 </div>
