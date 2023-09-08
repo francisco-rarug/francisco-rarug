@@ -19,7 +19,7 @@
 - Personal portfolio [link](https://francisco-rarug.github.io/Portafolio_web/)
 - I am currently working as an intern at the ART of the Provincia Group.
 - I am 19 years old.
--I am passionate about keeping up with new technologies.
+- I am passionate about keeping up with new technologies.
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
